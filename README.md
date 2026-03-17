@@ -2,9 +2,9 @@
 Disciplina de Banco de Dados Não-Relacional – 3º semestre DSM – 2026/1
 # Portfólio – Banco de Dados Não-Relacional – 2026/1
 ## Aluno
-- Nome:
-- LinkedIn:
-- GitHub:
+- Nome: Thiago Nunes Alves do Prado 
+- LinkedIn: https://www.linkedin.com/in/thhiagon/
+- GitHub: https://github.com/MyNameisNunes/
 ---
 ## Estrutura
 - P1
